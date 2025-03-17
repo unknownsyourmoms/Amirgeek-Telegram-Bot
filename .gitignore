@@ -1,0 +1,9 @@
+/vendor/
+/logs/*
+!logs/.gitkeep
+.env
+composer.lock
+config/config.php
+.idea/
+.vscode/
+*.log

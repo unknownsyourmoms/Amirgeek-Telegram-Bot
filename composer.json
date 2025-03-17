@@ -1,0 +1,30 @@
+{
+    "name": "amirgeek/telegram-bot",
+    "description": "A powerful Telegram bot with multiple functionalities including AI services, downloaders, and more",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Geek",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AmirGeek\\TelegramBot\\": "src/"
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -r \"file_exists('config/config.php') || copy('config/config.example.php', 'config/config.php');\""
+        ]
+    },
+    "minimum-stability": "stable"
+}

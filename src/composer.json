@@ -1,0 +1,17 @@
+{
+    "name": "amirgeek/collaborative-bot",
+    "description": "A powerful Telegram bot with multiple functionalities",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    }
+}
